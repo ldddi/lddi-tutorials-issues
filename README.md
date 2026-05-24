@@ -1,40 +1,32 @@
-# lddi.net 教程评论区
+# lddi.net — Tutorials
 
-对教程有疑问、建议或想讨论？请在对应教程的 Issue 中留言。
+Step-by-step tutorial series on practical dev topics.
 
----
-
-## 教程系列
-
-### Claude 开发者指南
-
-| 章节 | 标题 | 链接 |
-|------|------|------|
-| 01 | Claude API 提示缓存完全指南：降低 90% 输入成本 | [阅读](https://lddi.net/zh/tutorials/claude-api-guide?chapter=1) |
-| 02 | Claude API 工具调用实战：让模型连接外部世界 | [阅读](https://lddi.net/zh/tutorials/claude-api-guide?chapter=2) |
-| 03 | Claude Code 工具系统解析：39 个内置工具全梳理 | [阅读](https://lddi.net/zh/tutorials/claude-api-guide?chapter=3) |
-
-### 科学上网从原理到实战
-
-| 章节 | 标题 | 链接 |
-|------|------|------|
-| 01 | 代理协议全景：从 Shadowsocks 到 VLESS | [阅读](https://lddi.net/zh/tutorials/proxy-guide?chapter=1) |
-| 02 | TLS 证书与 CDN 架构：理解加密链路的每一环 | [阅读](https://lddi.net/zh/tutorials/proxy-guide?chapter=2) |
-| 03 | 实操：VLESS + WebSocket + TLS + CDN 搭建全流程 | [阅读](https://lddi.net/zh/tutorials/proxy-guide?chapter=3) |
-| 04 | 升级：从 WebSocket 迁移到 XHTTP 传输层 | [阅读](https://lddi.net/zh/tutorials/proxy-guide?chapter=4) |
-| 05 | VLESS + Reality：无需域名的最强抗探测方案 | [阅读](https://lddi.net/zh/tutorials/proxy-guide?chapter=5) |
-| 06 | 实操：VLESS + Reality 搭建全流程 | [阅读](https://lddi.net/zh/tutorials/proxy-guide?chapter=6) |
+实用技术的系列教程，循序渐进。
 
 ---
 
-## 如何参与
+## Claude 开发者指南 / Claude Developer Guide
 
-1. 找到你想评论的教程对应的 Issue（没有的话可以新建）
-2. 留下你的问题、建议或补充
-3. 欢迎通过 Issue 反馈教程中的错误或过时内容
+| # | Title / 标题 | Link / 链接 |
+|---|------|------|
+| 01 | 提示缓存完全指南：降低 90% 输入成本 | [CN](https://lddi.net/zh/tutorials/claude-api-guide?chapter=1) · [EN](https://lddi.net/en/tutorials/claude-api-guide?chapter=1) |
+| 02 | 工具调用实战：让模型连接外部世界 | [CN](https://lddi.net/zh/tutorials/claude-api-guide?chapter=2) · [EN](https://lddi.net/en/tutorials/claude-api-guide?chapter=2) |
+| 03 | Claude Code 工具系统解析：39 个内置工具 | [CN](https://lddi.net/zh/tutorials/claude-api-guide?chapter=3) · [EN](https://lddi.net/en/tutorials/claude-api-guide?chapter=3) |
 
-## 联系
+## 科学上网从原理到实战 / Proxy Setup Guide
 
-- 网站：[lddi.net](https://lddi.net)
-- Telegram：[@lddi_cc](https://t.me/lddi_cc)
-- GitHub：[@ldddi](https://github.com/ldddi)
+| # | Title / 标题 | Link / 链接 |
+|---|------|------|
+| 01 | 代理协议全景：从 Shadowsocks 到 VLESS | [CN](https://lddi.net/zh/tutorials/proxy-guide?chapter=1) · [EN](https://lddi.net/en/tutorials/proxy-guide?chapter=1) |
+| 02 | TLS 证书与 CDN 架构 | [CN](https://lddi.net/zh/tutorials/proxy-guide?chapter=2) · [EN](https://lddi.net/en/tutorials/proxy-guide?chapter=2) |
+| 03 | 实操：VLESS + WS + TLS + CDN 搭建 | [CN](https://lddi.net/zh/tutorials/proxy-guide?chapter=3) · [EN](https://lddi.net/en/tutorials/proxy-guide?chapter=3) |
+| 04 | 升级：从 WebSocket 迁移到 XHTTP | [CN](https://lddi.net/zh/tutorials/proxy-guide?chapter=4) · [EN](https://lddi.net/en/tutorials/proxy-guide?chapter=4) |
+| 05 | VLESS + Reality：无域名抗探测方案 | [CN](https://lddi.net/zh/tutorials/proxy-guide?chapter=5) · [EN](https://lddi.net/en/tutorials/proxy-guide?chapter=5) |
+| 06 | 实操：VLESS + Reality 搭建全流程 | [CN](https://lddi.net/zh/tutorials/proxy-guide?chapter=6) · [EN](https://lddi.net/en/tutorials/proxy-guide?chapter=6) |
+
+---
+
+有疑问或建议欢迎 [提 Issue](https://github.com/ldddi/lddi-tutorials-issues/issues/new)。
+
+Questions or suggestions? Feel free to [open an Issue](https://github.com/ldddi/lddi-tutorials-issues/issues/new).
